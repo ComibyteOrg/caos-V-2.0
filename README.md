@@ -203,5 +203,6 @@ CAOS.init({
 
 * **`threshold`**: (Number | Default: `0.5`) A value between `0.0` and `1.0` that determines what percentage of the element must be visible on screen before the animation is triggered. `0.25` means 25% visible.
 * **`once`**: (Boolean | Default: `false`) If set to `true`, all animations on the page will only run one time.
-#   c a o s - V - 2 . 0  
+#   c a o s - V - 2 . 0 
+ 
  
