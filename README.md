@@ -29,7 +29,7 @@ A lightweight, performant, and dependency-free JavaScript library for animating 
 
 ## Installation
 
-Getting started with CAOS is simple. Since the library is self-contained, you just need to include its CSS and JavaScript in your HTML file.
+Getting started with CAOS is simple. download the caos folder and link its CSS and JavaScript to your HTML file.
 
 1.  **Link the CSS:** Link the CAOS CSS style within the `<head>` of your HTML.
 
